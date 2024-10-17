@@ -1,0 +1,18 @@
+[
+    {
+        "name": "home",
+        "length": 10.0,
+        "width": 10.0,
+        "height": 10.0,
+        "volume": 10.0,
+        "products": [
+            {
+                "name": "apple",
+                "length": 1.0,
+                "width": 1.0,
+                "height": 1.0,
+                "volume": 1.0
+            }
+        ]
+    }
+]
